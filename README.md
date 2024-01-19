@@ -36,7 +36,7 @@
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -47,7 +47,7 @@ this small programm are built with python and uses library socket for connection
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -80,7 +80,7 @@ _you need two command to launch this project._
    ```
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -89,7 +89,7 @@ _you need two command to launch this project._
 
 See the [open issues](https://github.com/developing-off/port-scanner/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -100,7 +100,7 @@ See the [open issues](https://github.com/developing-off/port-scanner/issues) for
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
